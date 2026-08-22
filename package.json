@@ -1,0 +1,13 @@
+{
+  "name": "dayflow-hrms",
+  "version": "1.0.0",
+  "description": "Dayflow - Human Resource Management System (HRMS). Every workday, perfectly aligned.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["hrms", "dashboard", "attendance", "leave-management", "payroll"],
+  "author": "Dayflow HR Team",
+  "license": "MIT"
+}
